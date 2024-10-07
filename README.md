@@ -1,6 +1,6 @@
 # 100 Days of Machine Learning
 
----
+
 
 **Day 1:** Introduction to Machine Learning  
 **Day 2:** Supervised vs Unsupervised Learning  
